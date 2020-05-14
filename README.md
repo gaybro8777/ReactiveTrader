@@ -1,5 +1,5 @@
-# This version of Reactive Trader is no longer actively maintained. 
-# Please visit: [Reactive Trader Cloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) for the latest version.
+## This version of Reactive Trader is no longer actively maintained. 
+## Please visit: [Reactive Trader Cloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) for the latest version.
 
 ***
 [![image](https://raw.githubusercontent.com/AdaptiveConsulting/ReactiveTrader/master/images/adaptive-logo.png)](http://weareadaptive.com/)
